@@ -1,1 +1,1 @@
-# WineQualityPredictor
+This project utilizes a Random Forest Classifier to predict wine quality based on chemical properties and features. By analyzing a dataset containing information about wine characteristics, the model learns to classify wines into high quality and low-quality categories.
